@@ -1,5 +1,12 @@
 # Robot-nurse
 
+## Table of contents
+
+- [Motivation](#Motivation)
+- [Working](#Working)
+- [Hardware used](#Harware-used)
+
+
 ## Motivation
 during the pandamic period it is difficult for nurse's to collect data in person
 
