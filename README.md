@@ -18,11 +18,10 @@ A simple line follower robot used to collect patient's satus and display it on a
 
 ## Harware used
 
-
-### arduino uno
-It used for the line follower
-### Ir sensor
-### bo motor's
+- ### arduino uno
+  - It used for the line follower
+  - ### Ir sensor
+  - ### bo motor's
 
 ### raspberrypi
 It used as the main control board
